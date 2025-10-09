@@ -1,0 +1,20 @@
+/* import cor da página*/
+@import "./color.css";
+/*****/
+
+/* Resete padrão */
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    outline:none;
+}
+
+html,body {
+    scroll-behavior:smooth;
+    background-color:var(--color-tree);
+    color:var(--color-five);
+    
+}
+/*****/

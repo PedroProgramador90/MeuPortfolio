@@ -1,0 +1,24 @@
+/* Media Queries */
+@media screen and (max-width:615px) {
+
+    .menu {
+       gap:1.2rem;
+    }
+
+    main.content  .profession-text {
+     font-size:1.1rem;
+     max-width:200px;
+     text-align: center;
+     line-height:30px;
+    }
+
+    button.botao-form {
+        font-size: 0.8rem;
+    
+    }
+
+    button.botao-form i {
+        font-size: 0.8rem;
+    }
+}
+/*****/
