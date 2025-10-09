@@ -7,7 +7,7 @@
 
     main.content  .profession-text {
      font-size:1.1rem;
-     max-width:200px;
+     max-width:280px;
      text-align: center;
      line-height:30px;
     }
@@ -20,5 +20,25 @@
     button.botao-form i {
         font-size: 0.8rem;
     }
+
+    .title-about {
+      font-size:2rem;
+     }
+
+     .title-project {
+        font-size:2rem;
+     }
+
+    .title-contact {
+     font-size:2rem;
+   }
+
+   .text-footer {
+    font-size:1rem;
+    font-weight:normal;
+    text-align:center;
+    }
+
 }
+
 /*****/
